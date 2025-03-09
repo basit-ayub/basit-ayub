@@ -17,5 +17,5 @@ I'm a **Software Engineering student** at NUCES Islamabad. I mainly work with **
 - Software Design and Architecture
 
 ## 📬 Connect    
-- [LinkedIn](www.linkedin.com/in/abdul-basit-493672307/)  
+- [LinkedIn](linkedin.com/in/abdul-basit-493672307/)  
 
