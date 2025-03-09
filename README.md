@@ -16,6 +16,4 @@ I'm a **Software Engineering student** at NUCES Islamabad. I mainly work with **
 - C# for Windows Applications
 - Software Design and Architecture
 
-## 📬 Connect    
-- [LinkedIn](linkedin.com/in/abdul-basit-493672307/)  
 
