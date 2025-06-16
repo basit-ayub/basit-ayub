@@ -1,5 +1,5 @@
 # 💫 About Me:
-Heyya, I'm Abdul Basit 👋<br>I'm a Software Engineering student at FAST Islamabad who loves building things with code. I mostly work with C++ and Python, and I’m currently diving into web development to expand my skill set.
+Heyya, I'm Abdul Basit 👋<br>I'm a Software Engineering student at FAST Islamabad who loves building things with code. I mostly work with C++ and Python, and I’m currently diving into web development and systems programming to expand my skill set.
 
 
 ## 🌐 Socials:
